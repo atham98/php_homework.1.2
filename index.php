@@ -2,8 +2,8 @@
 
 
 $rand = rand(0, 100);
-$first_1 = 10;
-$last_2 = 20;
+$first_1 = 1;
+$last_2 = 1;
 	
 echo "Наше Число ".$rand, PHP_EOL;
 
